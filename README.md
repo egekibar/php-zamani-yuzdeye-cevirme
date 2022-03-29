@@ -1,1 +1,1 @@
-# Php-Zaman-Y-zdeye-evirme
+# PHP ile zamanı yüzdeye çevirme
